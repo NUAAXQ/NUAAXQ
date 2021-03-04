@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![NUAAXQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUAAXQ)](https://github.com/anuraghazra/github-readme-stats)
+![NUAAXQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUAAXQ&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
