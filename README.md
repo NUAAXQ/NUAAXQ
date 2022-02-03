@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ![NUAAXQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUAAXQ&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+✧ Website: https://nuaaxq.github.io/personal_website/
+
+✧ Google Scholar: https://scholar.google.com/citations?user=we9tUrgAAAAJ&hl=en
